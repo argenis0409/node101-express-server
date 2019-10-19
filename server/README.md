@@ -1,5 +1,27 @@
-Express Server.
+# Express Server
 
-in this project i learned how to save data with json as well as send a response and request.
+## General Info
 
-once you run the code in your command line all you will is a message to make sure is working like "Hello World".
+* Save data with json, send data to the server as a json object
+
+## Setup
+Fork/clone the repo onto your local system then run the followig commands:
+
+```
+npm install
+```
+```
+npm start
+```
+
+## To test:
+Start the server:
+
+```
+npm start
+```
+Open another terminal and run the following command:
+
+```
+npm test
+```
